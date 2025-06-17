@@ -59,7 +59,7 @@ Chat_bot_FYP/
    - Create a `.env` file in `AI_backend/` with the following variables:
      ```env
      GROQ_API_KEY=your_groq_api_key_here
-     MODEL_NAME=meta-llama/llama-4-scout-17b-16e-instruct  # or your preferred model
+     MODEL_NAME=meta-llama/llama-4-scout-17b-16e-instruct
      LOG_LEVEL=INFO
      PORT=8000
      HOST=0.0.0.0
